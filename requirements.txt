@@ -1,6 +1,7 @@
 numpy
-keras
 scikit-learn
 opencv-python
 tensorflow
+matplotlib
+seaborn
 #-e .
